@@ -8,9 +8,9 @@ This project implements and compares multiple machine learning and deep learning
 - IMDb movie review sentiment classification
 - TF-IDF + Logistic Regression baseline model
 - Embedding-based Neural Network
-- LSTM model
 - Bidirectional LSTM
 - Optional DistilBERT transformer model
+- LSTM model
 - Real-time Google review sentiment prediction
 
 ## Dataset
