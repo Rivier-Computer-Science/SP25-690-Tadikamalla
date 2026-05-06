@@ -9,7 +9,7 @@ This project implements and compares multiple machine learning and deep learning
 - Embedding-based Neural Network
 - Bidirectional LSTM
 - Optional DistilBERT transformer model
-- - LSTM model
+- LSTM model
 - Real-time Google review sentiment prediction
 
 ## Dataset
