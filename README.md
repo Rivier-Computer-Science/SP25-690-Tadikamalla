@@ -1,5 +1,5 @@
 # SP25-690-Tadikamalla
-# Sentiment Analysis Using Deep Learning Models
+# Hotel Sentiment Analysis Using Deep Learning Models
 
 ## Overview
 This project implements and compares multiple machine learning and deep learning models for sentiment analysis of online reviews.
